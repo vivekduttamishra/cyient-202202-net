@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\bin\Debug\Demo02-Variables.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\bin\Debug\Demo02-Variables.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\bin\Debug\Demo02-Variables.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\obj\Debug\Demo02-Variables.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\obj\Debug\Demo02-Variables.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\obj\Debug\Demo02-Variables.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo02-Variables\obj\Debug\Demo02-Variables.pdb
