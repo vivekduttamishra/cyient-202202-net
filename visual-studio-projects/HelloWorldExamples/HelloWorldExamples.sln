@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo05-Conditions2", "Demo0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo06-Function", "Demo06-Function\Demo06-Function.csproj", "{0C7309C8-48AE-402C-82F4-4CF3A7F6E587}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptArchitect.Utils", "ConceptArchitect.Utils\ConceptArchitect.Utils.csproj", "{610B69F3-EE24-4F76-8298-8AFBD12929F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo07-UserInput", "Demo07-UserInput\Demo07-UserInput.csproj", "{D172012E-3042-4F8E-8F5D-63F6F16C6848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{0C7309C8-48AE-402C-82F4-4CF3A7F6E587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C7309C8-48AE-402C-82F4-4CF3A7F6E587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C7309C8-48AE-402C-82F4-4CF3A7F6E587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610B69F3-EE24-4F76-8298-8AFBD12929F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610B69F3-EE24-4F76-8298-8AFBD12929F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610B69F3-EE24-4F76-8298-8AFBD12929F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610B69F3-EE24-4F76-8298-8AFBD12929F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D172012E-3042-4F8E-8F5D-63F6F16C6848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D172012E-3042-4F8E-8F5D-63F6F16C6848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D172012E-3042-4F8E-8F5D-63F6F16C6848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D172012E-3042-4F8E-8F5D-63F6F16C6848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

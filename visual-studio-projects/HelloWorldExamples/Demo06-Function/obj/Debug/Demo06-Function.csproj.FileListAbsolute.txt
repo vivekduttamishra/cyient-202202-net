@@ -1,6 +1,7 @@
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\bin\Debug\Demo06-Function.exe.config
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\bin\Debug\Demo06-Function.exe
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\bin\Debug\Demo06-Function.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\obj\Debug\Demo06-Function.csprojAssemblyReference.cache
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\obj\Debug\Demo06-Function.csproj.CoreCompileInputs.cache
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\obj\Debug\Demo06-Function.exe
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo06-Function\obj\Debug\Demo06-Function.pdb

@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\bin\Debug\Demo07-UserInput.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\bin\Debug\Demo07-UserInput.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\bin\Debug\Demo07-UserInput.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\obj\Debug\Demo07-UserInput.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\obj\Debug\Demo07-UserInput.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\obj\Debug\Demo07-UserInput.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\obj\Debug\Demo07-UserInput.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo07-UserInput\obj\Debug\Demo07-UserInput.csproj.CopyComplete

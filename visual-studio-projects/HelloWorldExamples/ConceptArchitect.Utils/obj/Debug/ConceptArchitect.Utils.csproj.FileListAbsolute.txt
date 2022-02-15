@@ -1,0 +1,6 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\ConceptArchitect.Utils\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\ConceptArchitect.Utils\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\ConceptArchitect.Utils\obj\Debug\ConceptArchitect.Utils.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\ConceptArchitect.Utils\obj\Debug\ConceptArchitect.Utils.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\ConceptArchitect.Utils\obj\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\ConceptArchitect.Utils\obj\Debug\ConceptArchitect.Utils.pdb

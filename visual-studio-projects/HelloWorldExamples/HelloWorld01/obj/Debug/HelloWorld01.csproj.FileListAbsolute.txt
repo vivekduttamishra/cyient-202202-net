@@ -1,7 +1,0 @@
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\bin\Debug\HelloWorld01.exe.config
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\bin\Debug\HelloWorld01.exe
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\bin\Debug\HelloWorld01.pdb
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\obj\Debug\HelloWorld01.csproj.CoreCompileInputs.cache
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\obj\Debug\HelloWorld01.exe
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\obj\Debug\HelloWorld01.pdb
-D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\HelloWorld01\obj\Debug\HelloWorld01.csprojAssemblyReference.cache
