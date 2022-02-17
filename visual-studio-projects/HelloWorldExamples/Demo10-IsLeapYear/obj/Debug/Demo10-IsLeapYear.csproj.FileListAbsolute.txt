@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\bin\Debug\Demo10-IsLeapYear.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\bin\Debug\Demo10-IsLeapYear.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\bin\Debug\Demo10-IsLeapYear.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\obj\Debug\Demo10-IsLeapYear.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\obj\Debug\Demo10-IsLeapYear.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\obj\Debug\Demo10-IsLeapYear.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\obj\Debug\Demo10-IsLeapYear.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo10-IsLeapYear\obj\Debug\Demo10-IsLeapYear.pdb

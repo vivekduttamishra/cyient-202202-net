@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\bin\Debug\Demo11-IsLeapYearFunction.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\bin\Debug\Demo11-IsLeapYearFunction.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\bin\Debug\Demo11-IsLeapYearFunction.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\obj\Debug\Demo11-IsLeapYearFunction.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\obj\Debug\Demo11-IsLeapYearFunction.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\obj\Debug\Demo11-IsLeapYearFunction.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo11-IsLeapYearFunction\obj\Debug\Demo11-IsLeapYearFunction.pdb
