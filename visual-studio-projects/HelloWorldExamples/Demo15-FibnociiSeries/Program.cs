@@ -10,11 +10,28 @@ namespace Demo15_FibnociiSeries
     {
         static void Main(string[] args)
         {
-            PrintFibnocciSeriesUpto(1600);
+            //PrintFibnocciSeriesUpto(1500);
+            PrintFibnocciSeries(100);
         }
 
         static void PrintFibnocciSeries(int terms)
         {
+            ulong previous1 = 1;
+            ulong previous2 = 1;
+            Console.Write("{0}\t{1}\t", previous1, previous2);
+
+            int count = 2; //total terms printed so far
+
+            while(count<terms)
+            {
+                ulong number = previous1 + previous2;
+                Console.Write("{0}\t",number);
+                previous2 = previous1;
+                previous1 = number;
+
+                count++; //we have printed one more term now.
+            }
+            Console.WriteLine();
 
         }
 
