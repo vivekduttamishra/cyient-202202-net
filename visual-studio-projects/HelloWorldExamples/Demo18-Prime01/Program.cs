@@ -13,15 +13,22 @@ namespace Demo18_Prime01
         {
             int number = Input.ReadInt("Enter number?");
             bool prime = true; //let us assume it is prime
-            for(int i=2;i<number;i++)
+
+            if (number > 1)
             {
-                if (number % i == 0)
+                for (int i = 2; i < number; i++)
                 {
-                    
-                    prime = false; //ok! my assumption was wrong
-                    break;
-                }               
+                    if (number % i == 0)
+                    {
+
+                        prime = false; //ok! my assumption was wrong
+                        break;
+                    }
+                }
             }
+            else
+                prime = false; //for number <=1
+
 
             if(prime)
                 Console.WriteLine("{0} is prime", number);

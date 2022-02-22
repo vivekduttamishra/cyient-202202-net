@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\bin\Debug\Demo21SimpleCalculator.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\bin\Debug\Demo21SimpleCalculator.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\bin\Debug\Demo21SimpleCalculator.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\obj\Debug\Demo21SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\obj\Debug\Demo21SimpleCalculator.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\obj\Debug\Demo21SimpleCalculator.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\obj\Debug\Demo21SimpleCalculator.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo21SimpleCalculator\obj\Debug\Demo21SimpleCalculator.csprojAssemblyReference.cache
