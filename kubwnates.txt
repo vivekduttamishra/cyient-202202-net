@@ -1,0 +1,16 @@
+ntlc9z.mj9y3uo89jkmky2y
+
+
+kubectl config view --minify -o jsonpath='{.clusters[0].cluster.server}' && echo ""
+
+
+openssl x509 -pubkey -in /etc/kubernetes/pki/ca.crt | \
+openssl rsa -pubin -outform der 2>/dev/null | \
+openssl dgst -sha256 -hex | sed 's/^.* //'
+
+
+kubeadm join 172.31.43.204:6443 --token dr3gbo.bdwy2p79jqz93r58 \
+--discovery-token-ca-cert-hash sha256:32a1c15964a12ca17d4f2db753c078c30140c56bf11e03490c19693435eddb73
+
+
+kuebadm reset
