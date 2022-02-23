@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\bin\Debug\Demo23-CalculatorV3.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\bin\Debug\Demo23-CalculatorV3.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\bin\Debug\Demo23-CalculatorV3.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\obj\Debug\Demo23-CalculatorV3.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\obj\Debug\Demo23-CalculatorV3.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\obj\Debug\Demo23-CalculatorV3.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\obj\Debug\Demo23-CalculatorV3.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo23-CalculatorV3\obj\Debug\Demo23-CalculatorV3.pdb

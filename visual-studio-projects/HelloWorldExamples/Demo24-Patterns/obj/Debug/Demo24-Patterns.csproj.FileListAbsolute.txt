@@ -1,0 +1,9 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\bin\Debug\Demo24-Patterns.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\bin\Debug\Demo24-Patterns.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\bin\Debug\Demo24-Patterns.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\obj\Debug\Demo24-Patterns.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\obj\Debug\Demo24-Patterns.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\obj\Debug\Demo24-Patterns.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo24-Patterns\obj\Debug\Demo24-Patterns.pdb

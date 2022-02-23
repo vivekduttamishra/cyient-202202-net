@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\bin\Debug\Demo26-String.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\bin\Debug\Demo26-String.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\bin\Debug\Demo26-String.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\obj\Debug\Demo26-String.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\obj\Debug\Demo26-String.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\obj\Debug\Demo26-String.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\HelloWorldExamples\Demo26-String\obj\Debug\Demo26-String.pdb
