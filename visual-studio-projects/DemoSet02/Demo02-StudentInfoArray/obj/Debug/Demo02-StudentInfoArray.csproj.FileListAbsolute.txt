@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\bin\Debug\Demo02-StudentInfoArray.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\bin\Debug\Demo02-StudentInfoArray.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\bin\Debug\Demo02-StudentInfoArray.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\obj\Debug\Demo02-StudentInfoArray.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\obj\Debug\Demo02-StudentInfoArray.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\obj\Debug\Demo02-StudentInfoArray.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\obj\Debug\Demo02-StudentInfoArray.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo02-StudentInfoArray\obj\Debug\Demo02-StudentInfoArray.pdb

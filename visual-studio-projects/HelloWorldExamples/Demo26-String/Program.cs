@@ -25,6 +25,9 @@ namespace Demo26_String
             Console.WriteLine(name1.ToUpper()); //print's INDIA. But doesn't change name1
 
             Console.WriteLine(name1);
+
+
+            
         }
     }
 }

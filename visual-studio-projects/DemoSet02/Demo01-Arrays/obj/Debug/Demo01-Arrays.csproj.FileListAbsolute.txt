@@ -1,0 +1,9 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\bin\Debug\Demo01-Arrays.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\bin\Debug\Demo01-Arrays.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\bin\Debug\Demo01-Arrays.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.pdb
