@@ -170,12 +170,15 @@ namespace Demo02_StudentInfoArray
             for (int roll = 1; roll < names.Length; roll++) //note we are not using row 0
             {
                 Console.WriteLine("Marks for Roll {0} \t {1}", roll, names[roll]);
-
+                int min = random.Next(100) > 20 ? 10 : 0; //70% time student will get more than 10 marks
                 for (int paper = 1; paper < marks[roll].Length; paper++)
                 {
                     //Console.Write("\t");
                     //marks[roll][paper] = ReadMarks(paper, 25);
-                    marks[roll][paper] = random.Next(0, 26); //will genrate value between 0 and 25
+
+                    
+
+                    marks[roll][paper] = random.Next(min, 26); //will genrate value between 0 and 25
                     Console.WriteLine("\tpaper#1: "+marks[roll][paper]);
                 }
 
