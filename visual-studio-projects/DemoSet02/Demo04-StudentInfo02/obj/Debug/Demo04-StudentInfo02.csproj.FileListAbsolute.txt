@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\bin\Debug\Demo04-StudentInfo02.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\bin\Debug\Demo04-StudentInfo02.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\bin\Debug\Demo04-StudentInfo02.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\obj\Debug\Demo04-StudentInfo02.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\obj\Debug\Demo04-StudentInfo02.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\obj\Debug\Demo04-StudentInfo02.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\obj\Debug\Demo04-StudentInfo02.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo04-StudentInfo02\obj\Debug\Demo04-StudentInfo02.pdb

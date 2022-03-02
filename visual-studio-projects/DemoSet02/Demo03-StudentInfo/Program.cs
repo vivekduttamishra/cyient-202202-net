@@ -59,6 +59,11 @@ namespace Demo02_StudentInfoArray
             }
 
             //Step #2 calculate total and grade
+            //TODO: complete the calculation of 
+            //Total marks and grade per subject and overall grade
+
+
+
 
 
             //Step #3 Display the result
@@ -70,9 +75,13 @@ namespace Demo02_StudentInfoArray
                 int total = 0;
                 for(int paper=1; paper<marks[roll].Length;paper++)
                 {
-                    Console.Write("{0}\t", marks[roll][paper]);
+                    //TODO: display individual paper grade also here
+                    Console.Write("{0} ({1})\t", marks[roll][paper], grades[roll][paper]);
                     total += marks[roll][paper];
                 }
+
+                //total = marks[roll][0] + marks[roll][1] + marks[roll][2];
+
                 Console.WriteLine("{0}",total);
             }
 
