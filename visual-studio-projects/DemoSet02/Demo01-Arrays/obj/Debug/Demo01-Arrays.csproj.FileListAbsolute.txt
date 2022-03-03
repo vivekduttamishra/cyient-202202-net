@@ -7,3 +7,4 @@ D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-A
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.csproj.CopyComplete
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.exe
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo01-Arrays\obj\Debug\Demo01-Arrays.csprojAssemblyReference.cache

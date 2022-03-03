@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\bin\Debug\Demo07-TriangleClassV2.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\bin\Debug\Demo07-TriangleClassV2.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\bin\Debug\Demo07-TriangleClassV2.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\obj\Debug\Demo07-TriangleClassV2.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\obj\Debug\Demo07-TriangleClassV2.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\obj\Debug\Demo07-TriangleClassV2.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo07-TriangleClassV2\obj\Debug\Demo07-TriangleClassV2.csprojAssemblyReference.cache

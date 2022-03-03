@@ -1,0 +1,6 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-Triangle01\bin\Debug\Demo05-Triangle01.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-Triangle01\bin\Debug\Demo05-Triangle01.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-Triangle01\bin\Debug\Demo05-Triangle01.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-Triangle01\obj\Debug\Demo05-Triangle01.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-Triangle01\obj\Debug\Demo05-Triangle01.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-Triangle01\obj\Debug\Demo05-Triangle01.pdb
