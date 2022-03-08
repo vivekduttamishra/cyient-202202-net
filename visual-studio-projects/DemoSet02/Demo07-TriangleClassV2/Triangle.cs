@@ -30,28 +30,32 @@ namespace Demo05_TriangleClassV1
 
         public void SetSides(int x,int y, int z)
         {
-            if (x > 0 && y > 0 && z > 0 && x + y > z && y + z > x && x + z > y)
+            s1 = x;
+            s2 = y;
+            s3 = z;
+
+            ValidateSides();
+
+        }
+
+        private void ValidateSides()
+        {
+            if (s1 > 0 && s2 > 0 && s3 > 0 && s1 + s2 > s3 && s2 + s3 > s1 && s1 + s3 > s2)
             {
                 //ok sides are valid. we can set them
-                s1 = x;
-                s2 = y;
-                s3 = z;
-                valid = true; //mark triangle as valid internally
-                
-            }
-            else 
-                valid = false;    //mark triangle as invalid internally  
 
-            
-            
+                valid = true; //mark triangle as valid internally
+
+            }
+            else
+                valid = false;    //mark triangle as invalid internally  
         }
+
 
         public bool IsValid()
         {
             return valid;
         }
-
-
 
         public double Perimeter()
         {
@@ -60,5 +64,23 @@ namespace Demo05_TriangleClassV1
             else
                 return Double.NaN; //A special value to represent not a number
         }
+   
+    
+        public void Draw()
+        {
+            if(IsValid())
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("Triangle<{0},{1},{2}>",s1,s2,s3);
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Invalid Triangle<{0},{1},{2}>",s1,s2,s3);
+            }
+
+            Console.ResetColor(); //reset colors back to default
+        }
+    
     }
 }

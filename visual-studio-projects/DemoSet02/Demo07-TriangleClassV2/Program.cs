@@ -33,16 +33,17 @@ namespace Demo05_TriangleClassV1
 
             //t.SetSides(x, y, z);
 
-            if (t.IsValid())
-            {
-                Console.WriteLine("Triangle is Valid");
-            } else
-            {
-                Console.WriteLine("Triangle is NOT Valid");
-            }
+            //if (t.IsValid())
+            //{
+            //    Console.WriteLine("Triangle is Valid");
+            //} else
+            //{
+            //    Console.WriteLine("Triangle is NOT Valid");
+            //}
 
-
+            t.Draw();
             Console.WriteLine("Perimeter is {0} ", t.Perimeter());
+            
             Console.WriteLine();
 
 
