@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\bin\Debug\Demo05-TriangleV3.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\bin\Debug\Demo05-TriangleV3.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\bin\Debug\Demo05-TriangleV3.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\obj\Debug\Demo08-TriangleV3.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\obj\Debug\Demo08-TriangleV3.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\obj\Debug\Demo05-TriangleV3.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo05-TriangleV3\obj\Debug\Demo05-TriangleV3.pdb
