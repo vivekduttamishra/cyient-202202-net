@@ -22,6 +22,13 @@ namespace Demo05_TriangleClassV1
             Triangle t4 = new Triangle(3, 4, 12);
             TestTriangle(t4,9);  //triangle will become valid with sides 9,4,12
 
+
+            Console.WriteLine(t4.Side1); //can't pass a parameter
+
+            Console.WriteLine(t4[1]);
+            Console.WriteLine(t4[2]);
+            Console.WriteLine(t4[3]);
+
         }
 
         private static void TestTriangle(Triangle t, int newS1Value)
@@ -32,7 +39,7 @@ namespace Demo05_TriangleClassV1
             Console.WriteLine("Area is {0}", t.Area);
 
             //t.SetS1(newS1Value);
-            t.S1 = newS1Value;
+            t.Side1 = newS1Value;
 
            
 

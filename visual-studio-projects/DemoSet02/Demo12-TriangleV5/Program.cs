@@ -42,6 +42,14 @@ namespace Demo12_TriangleV5
 
             Triangle t3 = new Triangle(3, 4, 12);
             TestTriangle(t3, 9); //invalid triangle should change to valid Triangle<9,4,12>
+
+            for(int i=0;i<5;i++)
+            {
+                Console.WriteLine("Side {0} of Triangle is {1}",i, t3[i]);
+            }
+
+
+
         }
     }
 }

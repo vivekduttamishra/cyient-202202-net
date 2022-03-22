@@ -1,0 +1,5 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\ConceptArchitect.Shapes\bin\Debug\ConceptArchitect.Shapes.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\ConceptArchitect.Shapes\bin\Debug\ConceptArchitect.Shapes.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\ConceptArchitect.Shapes\obj\Debug\ConceptArchitect.Shapes.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\ConceptArchitect.Shapes\obj\Debug\ConceptArchitect.Shapes.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\ConceptArchitect.Shapes\obj\Debug\ConceptArchitect.Shapes.pdb

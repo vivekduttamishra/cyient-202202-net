@@ -8,13 +8,13 @@ namespace Demo05_TriangleClassV1
 {
     class Triangle
     {
-        private int s1;
+       
         private int s2;
         private int s3;
         bool valid;
 
-
-        public int S1
+        private int s1;
+        public int Side1
         {
             get
             {
@@ -26,14 +26,44 @@ namespace Demo05_TriangleClassV1
                 ValidateSides();
             }
         }
-       
-        public int S2
+
+
+        public double this [int side]
+        {
+            get
+            {
+                if (side == 1)
+                    return s1;
+                else if (side == 2)
+                    return s2;
+                else if (side == 3)
+                    return s3;
+                else
+                    return double.NaN;
+            }
+            set
+            {
+
+                if (side == 1)
+                    s1 = (int)value;
+                else if (side == 2)
+                    s2 = (int)value;
+                else if (side == 3)
+                    s3 = (int) value;
+                ValidateSides();
+            }
+        }
+
+
+
+
+        public int Side2
         {
             get { return s2; }
             set { s2 = value; ValidateSides(); }
         }
 
-        public int S3
+        public int Side3
         {
             get { return s3; }
             set { s3 = value; ValidateSides(); }

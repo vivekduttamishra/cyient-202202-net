@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\bin\Debug\Demo13-PropertyExample.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\bin\Debug\Demo13-PropertyExample.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\bin\Debug\Demo13-PropertyExample.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\obj\Debug\Demo13-PropertyExample.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\obj\Debug\Demo13-PropertyExample.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\obj\Debug\Demo13-PropertyExample.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\obj\Debug\Demo13-PropertyExample.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\bin\Debug\ConceptArchitect.Shapes.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\bin\Debug\ConceptArchitect.Shapes.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet02\Demo13-PropertyExample\obj\Debug\Demo13-PropertyExample.csproj.CopyComplete

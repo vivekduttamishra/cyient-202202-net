@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo12_TriangleV5
+namespace ConceptArchitect.Shapes
 {
     public class Triangle
     {

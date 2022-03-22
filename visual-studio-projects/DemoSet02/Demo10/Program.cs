@@ -42,7 +42,7 @@ namespace Demo10
 
             for(int i=0;i<names.Length;i++)
             {
-                int min = random.Next(100) > 20 ? 10 : 0;
+                int min = random.Next(100) > 20 ? 10 : 0; //80% cases we choose min marks as 10.
                 roll++;
 
                 Student s = new Student(roll, names[i]);
@@ -50,7 +50,7 @@ namespace Demo10
                 s.Marks2 = random.Next(min, 26);
                 s.Marks3 = random.Next(min, 26);
 
-                students[i] = s;
+                students[i] = s; //add new student to my list of students
             }
 
             return students;
