@@ -10,27 +10,25 @@ namespace Demo01EmployeeHierarchy
     {
         static void Main(string[] args)
         {
-            Employee emp1 = new Accountant();
-            emp1.Name = "Sanjay";
-            emp1.Salary = 50000;
-            emp1.Id = 1;
 
-            Employee emp2 = new Accountant()
-            {
-                Id = 2,
-                Name = "Prabhat",
-                Salary = 100000
-            };
+            Employee employee = new Employee()  { Id = 1, Name = "Prabhat",  Salary = 100000  };
+            Accountant accountant = new Accountant() {Id = 2, Name = "Sanjay", Salary = 100000 };
+            Manager manager = new Manager(){ Id = 3,   Name = "Aman", Salary = 200000      };
 
-
-
-            TestEmployee(emp1);
+            TestEmployee(employee);
+            TestEmployee(accountant);
+            TestEmployee(manager);
         }
 
-        private static void TestEmployee(Employee emp1)
+        private static void TestEmployee(Employee employee)
         {
-            emp1.Work();
-            Console.WriteLine(emp1.Info);
+          
+            Console.WriteLine("current employee is "+employee);
+            Console.WriteLine("Is He An    Employee: {0}", employee is Employee);
+            Console.WriteLine("Is He A      Manager: {0}", employee is Manager);
+            Console.WriteLine("Is He An  Accountant: {0}", employee is Accountant);
+            Console.WriteLine();
+
         }
     }
 }

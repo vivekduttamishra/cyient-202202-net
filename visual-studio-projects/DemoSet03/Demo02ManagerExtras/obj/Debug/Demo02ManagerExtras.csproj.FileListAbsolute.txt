@@ -1,0 +1,6 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo02ManagerExtras\bin\Debug\Demo02ManagerExtras.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo02ManagerExtras\bin\Debug\Demo02ManagerExtras.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo02ManagerExtras\bin\Debug\Demo02ManagerExtras.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo02ManagerExtras\obj\Debug\Demo02ManagerExtras.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo02ManagerExtras\obj\Debug\Demo02ManagerExtras.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo02ManagerExtras\obj\Debug\Demo02ManagerExtras.pdb
