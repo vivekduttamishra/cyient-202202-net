@@ -36,8 +36,16 @@ namespace Demo01EmployeeHierarchy
 
 
             manager.Work();
-
             TestEmployee(manager);
+
+
+
+
+            Console.WriteLine("Manager's Team size is {0} ",manager.TeamSize);
+            Employee emp = manager;   //manager is an Employee. 
+            Console.WriteLine("Id:"+emp.Id); //works
+            Console.WriteLine("Team Size:"+ emp.TeamSize  );
+           
         }
 
         public static void TestEmployee(Employee e)

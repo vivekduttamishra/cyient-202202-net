@@ -16,17 +16,15 @@ namespace Demo01EmployeeHierarchy
                             Project="R&D"      //manager specific properties
             };
 
-         
-            
 
-            manager.Work();   //manager's work
 
-            TestEmployee(manager);  //manager's work
 
-            Accountant a = new Accountant() { Name = "Sanjeev" };
-            a.Work();  //account's work
+            manager.AddToTeam(new Accountant() { Name = "Subhash" });
+            manager.AddToTeam(new Employee() { Name = "Vivek" });
 
-            TestEmployee(a); //employee's work
+            Employee e = manager;
+
+            Console.WriteLine(e.Info);
         }
 
         public static void TestEmployee(Employee e)

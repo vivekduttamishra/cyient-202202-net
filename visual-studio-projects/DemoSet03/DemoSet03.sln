@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo02ManagerExtras", "Demo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo03-OverrideMethod", "Demo03-OverrideMethod\Demo03-OverrideMethod.csproj", "{657BE97B-CDF1-4B8E-A3EA-80B4F1ECFE95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo04-ConstructorChaining", "Demo04-ConstructorChaining\Demo04-ConstructorChaining.csproj", "{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{657BE97B-CDF1-4B8E-A3EA-80B4F1ECFE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657BE97B-CDF1-4B8E-A3EA-80B4F1ECFE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657BE97B-CDF1-4B8E-A3EA-80B4F1ECFE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

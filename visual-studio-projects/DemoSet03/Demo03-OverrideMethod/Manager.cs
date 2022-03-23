@@ -8,6 +8,20 @@ namespace Demo01EmployeeHierarchy
 {
     class Manager : Employee
     {
+
+        public override string Info
+        {
+            get
+            {
+                var baseInfo = base.Info; //get info from base overriden info
+
+                var updatedInfo = baseInfo.Replace("Employee", "Manager"); //replace Empoyee word in String with manager
+
+                return string.Format("{0}\tProject={1}\tTeam Size={2}",
+                                                updatedInfo, Project, TeamSize);
+            }
+        }
+
         public string Project { get; set; }
         public Employee[] Team { get; set; } = new Employee[10]; //max 10 employee
         public int TeamSize { get; private set; } //can't be changed from outside

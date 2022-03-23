@@ -8,6 +8,15 @@ namespace Demo01EmployeeHierarchy
 {
     class Employee
     {
+
+        public virtual  string Info
+        {
+            get
+            {
+                return string.Format("Employee\tId={0}\tName={1}\tSalary={2}", Id, Name, Salary);
+            }
+        }
+
         public int Id { get; set; }
         public string Name { get; set; }
 
@@ -18,12 +27,6 @@ namespace Demo01EmployeeHierarchy
             Console.WriteLine("Employee {0}-{1} works for salary {2}",Id,Name,Salary);
         }
 
-        public string Info
-        {
-            get
-            {
-                return string.Format("Employee\tId={0}\tName={1}\tSalary={2}", Id, Name, Salary);
-            }
-        }
+       
     }
 }
