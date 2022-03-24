@@ -15,7 +15,7 @@ namespace Demo06_Animals
                 //we can store all animals here                
                 new Tiger(),
                 new Horse(),
-                new Animal(),
+               // new Animal(),
                 new Cat(),
                 new Snake(),
                 new Eagle(),
@@ -23,8 +23,8 @@ namespace Demo06_Animals
                 new Camel(),
                 new Cow(),
                 new Parrot(),
-                new Bird(),
-                new Reptile(),
+               // new Bird(),
+              //  new Reptile(),
                 new Leopard()
             };
 
@@ -35,6 +35,19 @@ namespace Demo06_Animals
                 Console.WriteLine("\t" + animal.Eat());
                 Console.WriteLine("\t" + animal.Move());
                 Console.WriteLine("\t" + animal.Breed());
+
+                //animal.Hunt();
+
+                //Tiger tiger = animal; 
+                if(animal is Tiger)
+                {
+                    Tiger tiger = (Tiger)animal;
+                    Console.WriteLine("\t" + tiger.Hunt());
+                }
+                
+
+
+
                 Console.WriteLine("\t" + animal.Die());
                 Console.WriteLine();
             }
