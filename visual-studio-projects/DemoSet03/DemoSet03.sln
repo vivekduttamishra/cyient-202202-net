@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo03-OverrideMethod", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo04-ConstructorChaining", "Demo04-ConstructorChaining\Demo04-ConstructorChaining.csproj", "{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo05-ConstructorChainging", "Demo05-ConstructorChainging\Demo05-ConstructorChainging.csproj", "{869FDA08-0FDB-4036-ABA0-62AF1EFFE963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo06-Animals", "Demo06-Animals\Demo06-Animals.csproj", "{6705D69B-FA0F-4134-8330-CE58F5677DDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3885428E-9DD4-4692-B6A1-16E79BAAB7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869FDA08-0FDB-4036-ABA0-62AF1EFFE963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869FDA08-0FDB-4036-ABA0-62AF1EFFE963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869FDA08-0FDB-4036-ABA0-62AF1EFFE963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869FDA08-0FDB-4036-ABA0-62AF1EFFE963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6705D69B-FA0F-4134-8330-CE58F5677DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6705D69B-FA0F-4134-8330-CE58F5677DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6705D69B-FA0F-4134-8330-CE58F5677DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6705D69B-FA0F-4134-8330-CE58F5677DDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
