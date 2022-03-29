@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Demo07;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo06_Animals
 {
-    public abstract class Reptile : Animal
+    public abstract class Reptile : Animal, Hunter
     {
         public override string Breed()
         {
@@ -18,13 +19,12 @@ namespace Demo06_Animals
             return this + " is carnivour";
         }
 
+        public abstract string Hunt();
+
         public override string Move()
         {
             return this + " is a crawler and swimmer";
         }
-
-        public abstract string Hunt();
-        
 
     }
 

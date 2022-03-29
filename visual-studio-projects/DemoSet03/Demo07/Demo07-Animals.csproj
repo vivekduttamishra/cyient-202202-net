@@ -50,6 +50,7 @@
     <Compile Include="Cow.cs" />
     <Compile Include="Dog.cs" />
     <Compile Include="Horse.cs" />
+    <Compile Include="Hunter.cs" />
     <Compile Include="Leopard.cs" />
     <Compile Include="Mammal.cs" />
     <Compile Include="Program.cs" />

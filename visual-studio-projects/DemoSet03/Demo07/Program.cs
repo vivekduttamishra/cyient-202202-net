@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Demo07;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -38,18 +39,29 @@ namespace Demo06_Animals
 
                 //animal.Hunt();
 
-                //Tiger tiger = animal; 
-                if(animal is Tiger)
-                {
-                    Tiger tiger = (Tiger)animal;
-                    Console.WriteLine("\t" + tiger.Hunt());
-                }
-                
+                //HuntIfYouAreATiger(animal);
 
-
+                HuntIfYouAreAHunter(animal);
 
                 Console.WriteLine("\t" + animal.Die());
                 Console.WriteLine();
+            }
+        }
+
+        private static void HuntIfYouAreAHunter(Animal animal)
+        {
+            var hunter = animal as Hunter; //converts type or returns null
+            if(hunter!=null)
+                Console.WriteLine("\t{0}", hunter.Hunt());
+        }
+
+        private static void HuntIfYouAreATiger(Animal animal)
+        {
+            //Tiger tiger = animal; 
+            if (animal is Tiger)
+            {
+                Tiger tiger = (Tiger)animal;
+                Console.WriteLine("\t" + tiger.Hunt());
             }
         }
     }

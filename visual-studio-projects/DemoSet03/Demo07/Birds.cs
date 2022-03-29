@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Demo07;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -35,7 +36,7 @@ namespace Demo06_Animals
     }
 
 
-    public class Eagle: Bird
+    public class Eagle: Bird,Hunter
     {
         public override string Eat()
         {
