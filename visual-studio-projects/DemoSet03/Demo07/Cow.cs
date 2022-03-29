@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Demo07;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo06_Animals
 {
-    public class Cow : Mammal
+    public class Cow : Mammal, IDomestic
     {
         //no need to refine Die, Move, Breed
 

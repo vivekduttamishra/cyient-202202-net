@@ -15,13 +15,16 @@ namespace Demo06_Animals
             {
                 //we can store all animals here                
                 new Tiger(),
+                new Tiger(),
                 new Horse(),
                // new Animal(),
                 new Cat(),
                 new Snake(),
                 new Eagle(),
+                
                 new Dog(),
                 new Camel(),
+                new Crocodile(),
                 new Cow(),
                 new Parrot(),
                // new Bird(),
@@ -32,6 +35,8 @@ namespace Demo06_Animals
 
             foreach(var animal in animals)
             {
+                if(animal is IDomestic)
+                    Console.Write("Domestic   ");
                 Console.WriteLine(animal);
                 Console.WriteLine("\t" + animal.Eat());
                 Console.WriteLine("\t" + animal.Move());
@@ -43,6 +48,11 @@ namespace Demo06_Animals
 
                 HuntIfYouAreAHunter(animal);
 
+                if(animal is IRideable)
+                {
+                    Console.WriteLine("\t"+(animal as IRideable).Ride());
+                }
+
                 Console.WriteLine("\t" + animal.Die());
                 Console.WriteLine();
             }
@@ -50,7 +60,7 @@ namespace Demo06_Animals
 
         private static void HuntIfYouAreAHunter(Animal animal)
         {
-            var hunter = animal as Hunter; //converts type or returns null
+            var hunter = animal as IHunter; //converts type or returns null
             if(hunter!=null)
                 Console.WriteLine("\t{0}", hunter.Hunt());
         }

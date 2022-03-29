@@ -49,8 +49,10 @@
     <Compile Include="Cat.cs" />
     <Compile Include="Cow.cs" />
     <Compile Include="Dog.cs" />
+    <Compile Include="IDomestic.cs" />
     <Compile Include="Horse.cs" />
-    <Compile Include="Hunter.cs" />
+    <Compile Include="IHunter.cs" />
+    <Compile Include="IRideable.cs" />
     <Compile Include="Leopard.cs" />
     <Compile Include="Mammal.cs" />
     <Compile Include="Program.cs" />

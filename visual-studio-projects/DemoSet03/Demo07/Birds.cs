@@ -27,7 +27,7 @@ namespace Demo06_Animals
 
     }
 
-    public class Parrot: Bird
+    public class Parrot: Bird, IDomestic
     {
         public override string Eat()
         {
@@ -36,7 +36,7 @@ namespace Demo06_Animals
     }
 
 
-    public class Eagle: Bird,Hunter
+    public class Eagle: Bird,IHunter
     {
         public override string Eat()
         {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo06_Animals
 {
-    public class Dog: Mammal, Hunter
+    public class Dog: Mammal, IHunter, IDomestic
     {
         //no need to refine Die, Move, Breed
 

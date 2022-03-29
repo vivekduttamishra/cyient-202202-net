@@ -8,7 +8,7 @@ namespace Demo06_Animals
 {
     public abstract class Mammal : Animal
     {
-        public override string Breed()
+        public override sealed string Breed()
         {
             return this + " is child bearing";
         }

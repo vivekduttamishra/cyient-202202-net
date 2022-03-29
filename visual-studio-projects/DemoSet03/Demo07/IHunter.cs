@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo07
 {
-    public interface Hunter
+    public interface IHunter
     {
         string Hunt();
     }

@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace Demo06_Animals
 {
-    public abstract class Reptile : Animal, Hunter
+    public abstract class Reptile : Animal, IHunter
     {
+      
         public override string Breed()
         {
             return this + " is egg laying";
@@ -25,6 +26,9 @@ namespace Demo06_Animals
         {
             return this + " is a crawler and swimmer";
         }
+
+
+       
 
     }
 
