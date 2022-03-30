@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\bin\Debug\Demo08-Struct.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\bin\Debug\Demo08-Struct.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\bin\Debug\Demo08-Struct.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\obj\Debug\Demo08-Struct.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\obj\Debug\Demo08-Struct.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\obj\Debug\Demo08-Struct.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo08-Struct\obj\Debug\Demo08-Struct.pdb

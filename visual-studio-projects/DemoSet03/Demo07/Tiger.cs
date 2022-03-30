@@ -16,9 +16,6 @@ namespace Demo06_Animals
         }         
     }
 
-    public class BengalTiger : Tiger
-    {
-
-    }
+   
 }
  
