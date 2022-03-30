@@ -6,23 +6,24 @@ using System.Threading.Tasks;
 
 namespace Demo09_DynamicArray
 {
-    class DynamicArray < X >
+    class DynamicIntArray
     {
-        X [] array; //this is a normal array that we will dynamic
+        int[] array; //this is a normal array that we will dynamic
         int size;
         int initialSize;
+
         public int Length { get { return size; } }      //how much it is currently holding
         public int Capacity { get { return array.Length; } } //how much array can hold
-                
-        public DynamicArray(int size)
+
+        public DynamicIntArray(int size)
         {
-            array = new X[size];
+            array = new int[size];
             initialSize = size;
         }
 
-        public DynamicArray(params X [] values)
+        public DynamicIntArray(params int [] values)
         {
-            array = new X[values.Length];
+            array = new int[values.Length];
             initialSize = values.Length;
 
             initialSize = values.Length;
@@ -30,7 +31,7 @@ namespace Demo09_DynamicArray
                 Add(value);
         }
 
-        public void Add(X value)
+        public void Add(int value)
         {
             if (Length == Capacity) //array if full
                 IncreaseSize();
@@ -41,7 +42,7 @@ namespace Demo09_DynamicArray
         private void IncreaseSize()
         {
             //You can't increase array size. Youc an only create new bigger array
-            X[] newArray = new X[Capacity + initialSize];
+            int[] newArray = new int[Capacity + initialSize];
 
             //You must copy your current value to the new array
             for (int i = 0; i < Capacity; i++)
@@ -51,7 +52,7 @@ namespace Demo09_DynamicArray
             array = newArray;
         }
 
-        public void Insert( int pos, X value)
+        public void Insert( int pos, int value)
         {
             if (Capacity == size) //array is Full
                 IncreaseSize();
@@ -78,12 +79,12 @@ namespace Demo09_DynamicArray
             size--;
         }
 
-        public X this [ int index]
+        public int this [ int index]
         {
             get
             {
                 if (index < 0 || index >= Length) //wrong index
-                    return default(X); //what should I do here?
+                    return 0; //what should I do here?
 
                 return array[index];
             }

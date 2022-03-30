@@ -6,23 +6,24 @@ using System.Threading.Tasks;
 
 namespace Demo09_DynamicArray
 {
-    class DynamicArray < X >
+    class DynamicStringArray
     {
-        X [] array; //this is a normal array that we will dynamic
+        string[] array; //this is a normal array that we will dynamic
         int size;
         int initialSize;
+
         public int Length { get { return size; } }      //how much it is currently holding
         public int Capacity { get { return array.Length; } } //how much array can hold
-                
-        public DynamicArray(int size)
+
+        public DynamicStringArray(int size)
         {
-            array = new X[size];
+            array = new string[size];
             initialSize = size;
         }
 
-        public DynamicArray(params X [] values)
+        public DynamicStringArray(params string [] values)
         {
-            array = new X[values.Length];
+            array = new string[values.Length];
             initialSize = values.Length;
 
             initialSize = values.Length;
@@ -30,7 +31,7 @@ namespace Demo09_DynamicArray
                 Add(value);
         }
 
-        public void Add(X value)
+        public void Add(string value)
         {
             if (Length == Capacity) //array if full
                 IncreaseSize();
@@ -41,7 +42,7 @@ namespace Demo09_DynamicArray
         private void IncreaseSize()
         {
             //You can't increase array size. Youc an only create new bigger array
-            X[] newArray = new X[Capacity + initialSize];
+            string[] newArray = new string[Capacity + initialSize];
 
             //You must copy your current value to the new array
             for (int i = 0; i < Capacity; i++)
@@ -51,7 +52,7 @@ namespace Demo09_DynamicArray
             array = newArray;
         }
 
-        public void Insert( int pos, X value)
+        public void Insert( int pos, string value)
         {
             if (Capacity == size) //array is Full
                 IncreaseSize();
@@ -78,12 +79,12 @@ namespace Demo09_DynamicArray
             size--;
         }
 
-        public X this [ int index]
+        public string this [ int index]
         {
             get
             {
                 if (index < 0 || index >= Length) //wrong index
-                    return default(X); //what should I do here?
+                    return null; //what should I do here?
 
                 return array[index];
             }

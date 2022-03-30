@@ -44,6 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DynamicArray.cs" />
+    <Compile Include="DynamicObjectArray.cs" />
+    <Compile Include="DynamicStringArray.cs" />
+    <Compile Include="DynamicIntArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
