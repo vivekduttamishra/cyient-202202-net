@@ -10,11 +10,17 @@ namespace Demo08_Struct
     {
         public int Value { get; set; }
 
+
+
+
         public SNumber(int value)
         {
             this.Value = value;
         }
+        public SNumber()
+        {
 
+        }
         public override string ToString()
         {
             return $"SNumber({Value.ToString()})";

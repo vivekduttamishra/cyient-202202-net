@@ -14,7 +14,10 @@ namespace Demo08_Struct
         {
             this.Value = value;
         }
-
+        public CNumber()
+        {
+            Value = 0;
+        }
         public override string ToString()
         {
             return $"CNumber({Value.ToString()})";

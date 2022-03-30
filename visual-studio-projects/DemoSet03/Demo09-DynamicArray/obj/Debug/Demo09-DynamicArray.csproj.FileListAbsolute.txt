@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\bin\Debug\Demo09-DynamicArray.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\bin\Debug\Demo09-DynamicArray.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\bin\Debug\Demo09-DynamicArray.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\obj\Debug\Demo09-DynamicArray.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\obj\Debug\Demo09-DynamicArray.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\obj\Debug\Demo09-DynamicArray.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo09-DynamicArray\obj\Debug\Demo09-DynamicArray.pdb
