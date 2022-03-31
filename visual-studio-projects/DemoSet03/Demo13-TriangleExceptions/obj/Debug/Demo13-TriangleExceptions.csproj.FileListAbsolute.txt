@@ -1,0 +1,6 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo13-TriangleExceptions\bin\Debug\Demo13-TriangleExceptions.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo13-TriangleExceptions\bin\Debug\Demo13-TriangleExceptions.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo13-TriangleExceptions\bin\Debug\Demo13-TriangleExceptions.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo13-TriangleExceptions\obj\Debug\Demo13-TriangleExceptions.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo13-TriangleExceptions\obj\Debug\Demo13-TriangleExceptions.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo13-TriangleExceptions\obj\Debug\Demo13-TriangleExceptions.pdb

@@ -1,0 +1,6 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo11-Collection\bin\Debug\Demo11-Collection.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo11-Collection\bin\Debug\Demo11-Collection.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo11-Collection\bin\Debug\Demo11-Collection.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo11-Collection\obj\Debug\Demo11-Collection.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo11-Collection\obj\Debug\Demo11-Collection.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo11-Collection\obj\Debug\Demo11-Collection.pdb
