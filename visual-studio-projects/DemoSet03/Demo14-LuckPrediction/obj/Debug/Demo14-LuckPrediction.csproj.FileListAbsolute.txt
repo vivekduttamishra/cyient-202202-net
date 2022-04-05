@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\bin\Debug\Demo14-LuckPrediction.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\bin\Debug\Demo14-LuckPrediction.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\bin\Debug\Demo14-LuckPrediction.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\bin\Debug\ConceptArchitect.Utils.dll
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\bin\Debug\ConceptArchitect.Utils.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\obj\Debug\Demo14-LuckPrediction.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\obj\Debug\Demo14-LuckPrediction.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\obj\Debug\Demo14-LuckPrediction.csproj.CopyComplete
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\obj\Debug\Demo14-LuckPrediction.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo14-LuckPrediction\obj\Debug\Demo14-LuckPrediction.pdb
