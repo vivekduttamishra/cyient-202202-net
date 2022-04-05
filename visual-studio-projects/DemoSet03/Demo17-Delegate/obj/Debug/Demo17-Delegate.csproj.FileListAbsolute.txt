@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\bin\Debug\Demo17-Delegate.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\bin\Debug\Demo17-Delegate.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\bin\Debug\Demo17-Delegate.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\obj\Debug\Demo17-Delegate.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\obj\Debug\Demo17-Delegate.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\obj\Debug\Demo17-Delegate.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo17-Delegate\obj\Debug\Demo17-Delegate.pdb
