@@ -7,3 +7,4 @@ D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.csproj.CoreCompileInputs.cache
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.exe
 D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.csprojAssemblyReference.cache

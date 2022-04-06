@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\bin\Debug\Demo04BooksApp.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\bin\Debug\Demo04BooksApp.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\bin\Debug\Demo04BooksApp.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.BooksMainForm.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.Properties.Resources.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.csproj.GenerateResource.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo04BooksApp\obj\Debug\Demo04BooksApp.pdb

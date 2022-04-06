@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo02DesktopAppCode", "Dem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo03GreetPerson", "Demo03GreetPerson\Demo03GreetPerson.csproj", "{A1FC76E6-F8A2-405D-B396-7BAF42FBE560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo04BooksApp", "Demo04BooksApp\Demo04BooksApp.csproj", "{4B6BF4DE-AC28-415F-B8FD-DDF7FD2CF5CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A1FC76E6-F8A2-405D-B396-7BAF42FBE560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1FC76E6-F8A2-405D-B396-7BAF42FBE560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1FC76E6-F8A2-405D-B396-7BAF42FBE560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6BF4DE-AC28-415F-B8FD-DDF7FD2CF5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6BF4DE-AC28-415F-B8FD-DDF7FD2CF5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6BF4DE-AC28-415F-B8FD-DDF7FD2CF5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6BF4DE-AC28-415F-B8FD-DDF7FD2CF5CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
