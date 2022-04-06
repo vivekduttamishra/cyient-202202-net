@@ -1,0 +1,7 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\bin\Debug\Demo18-MulticastDelegate.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\bin\Debug\Demo18-MulticastDelegate.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\bin\Debug\Demo18-MulticastDelegate.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\obj\Debug\Demo18-MulticastDelegate.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\obj\Debug\Demo18-MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\obj\Debug\Demo18-MulticastDelegate.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DemoSet03\Demo18-MulticastDelegate\obj\Debug\Demo18-MulticastDelegate.pdb

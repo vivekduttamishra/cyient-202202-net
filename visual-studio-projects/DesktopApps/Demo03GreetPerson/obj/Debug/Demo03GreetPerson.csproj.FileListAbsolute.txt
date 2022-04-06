@@ -1,0 +1,9 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\bin\Debug\Demo03GreetPerson.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\bin\Debug\Demo03GreetPerson.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\bin\Debug\Demo03GreetPerson.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.Form1.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.Properties.Resources.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.csproj.GenerateResource.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo03GreetPerson\obj\Debug\Demo03GreetPerson.pdb

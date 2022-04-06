@@ -1,0 +1,8 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\bin\Debug\Demo02DesktopAppCode.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\bin\Debug\Demo02DesktopAppCode.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\bin\Debug\Demo02DesktopAppCode.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\obj\Debug\Demo02DesktopAppCode.Properties.Resources.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\obj\Debug\Demo02DesktopAppCode.csproj.GenerateResource.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\obj\Debug\Demo02DesktopAppCode.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\obj\Debug\Demo02DesktopAppCode.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo02DesktopAppCode\obj\Debug\Demo02DesktopAppCode.pdb

@@ -1,0 +1,10 @@
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\bin\Debug\Demo01HelloWorld.exe.config
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\bin\Debug\Demo01HelloWorld.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\bin\Debug\Demo01HelloWorld.pdb
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.csprojAssemblyReference.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.Form1.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.Properties.Resources.resources
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.csproj.GenerateResource.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.csproj.CoreCompileInputs.cache
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.exe
+D:\MyWorks\Corporate\202202-cyient-net\visual-studio-projects\DesktopApps\Demo01HelloWorld\obj\Debug\Demo01HelloWorld.pdb
