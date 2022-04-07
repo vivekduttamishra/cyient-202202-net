@@ -15,8 +15,9 @@ namespace Demo04BooksApp
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BooksMainForm());
+            Application.SetCompatibleTextRenderingDefault(true);
+            Application.Run(new BookMainForm());
+            
         }
     }
 }

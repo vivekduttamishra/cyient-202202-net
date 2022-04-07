@@ -47,17 +47,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Book.cs" />
-    <Compile Include="BookManager.cs" />
-    <Compile Include="BooksMainForm.cs">
+    <Compile Include="BookEditor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BooksMainForm.Designer.cs">
-      <DependentUpon>BooksMainForm.cs</DependentUpon>
+    <Compile Include="BookEditor.Designer.cs">
+      <DependentUpon>BookEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookManager.cs" />
+    <Compile Include="BookMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookMainForm.Designer.cs">
+      <DependentUpon>BookMainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="BooksMainForm.resx">
-      <DependentUpon>BooksMainForm.cs</DependentUpon>
+    <EmbeddedResource Include="BookEditor.resx">
+      <DependentUpon>BookEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookMainForm.resx">
+      <DependentUpon>BookMainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

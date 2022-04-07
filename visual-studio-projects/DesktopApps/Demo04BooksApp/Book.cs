@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo04BooksApp
 {
+    [Serializable]
     public class Book
     {
         public string Isbn { get; set; }
@@ -15,7 +16,7 @@ namespace Demo04BooksApp
 
         public int Price { get; set; }
 
-        public double Rating { get; set; }
+        public double Rating { get; set; } = 5;
 
         public string Cover { get; set; }
 

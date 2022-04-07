@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,6 +19,7 @@ namespace Demo04BooksApp
 
         public BookManager()
         {
+            /*
             AddBook(new Book()
             {
                 Title = "The Accursed God",
@@ -71,6 +74,8 @@ namespace Demo04BooksApp
                 Description = "The story of three convicted judges and Presidential election",
                 Isbn = "‎0099280256"
             });
+
+            */
         }
 
         public List<string> GetIsbns()
@@ -84,6 +89,53 @@ namespace Demo04BooksApp
         }
     
     
+        public void SaveCSV(string path)
+        {
+            var writer = new StreamWriter(path);
+            
+            foreach(var book in books.Values)
+            {
+                writer.WriteLine($"{book.Isbn}, {book.Title}, {book.Author},{book.Price}, {book.Rating},{book.Cover},\"{book.Description}\"");
+            }
+
+            writer.Close();
+        }
+
+        public void Save(string path)
+        {
+            StreamWriter writer = null;
+            try
+            {
+                writer = new StreamWriter(path);
+
+                var formatter = new BinaryFormatter();
+
+                formatter.Serialize(writer.BaseStream, books);
+            }
+            finally
+            {
+                if(writer!=null)
+                    writer.Close();
+            }           
+
+
+        }
+
+        public void Load(string path)
+        {
+            StreamReader reader = null;
+            try
+            {
+                reader = new StreamReader(path);
+                var formatter = new BinaryFormatter();
+                books = (Dictionary<string, Book>)formatter.Deserialize(reader.BaseStream);
+                
+            }finally
+            {
+                if (reader != null)
+                    reader.Close();
+            }
+        }
     
     }
 }
